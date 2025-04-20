@@ -51,7 +51,7 @@ src/
 │   ├── Hero.jsx
 │   ├── Navbar.jsx
 │   ├── About.jsx
-│   └── Sparkles.jsx
+│  
 │
 ├── App.jsx               # Main App component
 ├── main.jsx              # ReactDOM entry point
