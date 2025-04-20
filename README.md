@@ -16,19 +16,19 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ### 1. **Clone the repository**
 
-```bash
-git clone https://github.com/your-username/nelkuba.git
-cd nelkuba
+git clone https://github.com/nelkuba/nelkuba-main-site.git
+cd nelkuba-main-site
 
-2. Install dependencies
+### 2. **Install dependencies**
+
 Make sure you have Node.js (v16 or above) and npm installed.
 npm install
 
-3. Start the development server
+### 3. **Start the development server**
 npm run dev
 The app should now be running at http://localhost:5173.
 
-📦 Tech Stack
+## 📦 **Tech Stack**
 React
 
 Vite
@@ -37,7 +37,7 @@ Tailwind CSS
 
 Framer Motion
 
-📁 Project Structure
+### 📁 **Project Structure**
 
 src/
 │
