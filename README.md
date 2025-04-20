@@ -20,15 +20,18 @@ If you are developing a production application, we recommend using TypeScript wi
 ```bash
 git clone https://github.com/nelkuba/nelkuba-main-site.git
 cd nelkuba-main-site
+```
 
-2. Install dependencies
+### 2. **Install dependencies**
 Make sure you have Node.js (v16 or above) and npm installed.
 
-npm install
+```npm install
 npm run dev
 The app should now be running at http://localhost:5173.
+```
 
 📦 Tech Stack
+```
 React
 
 Vite
@@ -37,8 +40,10 @@ Tailwind CSS
 
 Framer Motion
 
-📁 Project Structure
+```
 
+📁 Project Structure
+```
 src/
 │
 ├── assets/               # Static images & media
@@ -51,3 +56,4 @@ src/
 ├── App.jsx               # Main App component
 ├── main.jsx              # ReactDOM entry point
 └── index.css             # Tailwind + global styles
+```
